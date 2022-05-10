@@ -72,7 +72,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Examples
-/[Aa]ssets/[Ss]imple Scroll-Snap/[Ee]xamples
+/[Aa]ssets/Simple Scroll-Snap/Examples/
 
 # Generated lists
 /[Aa]ssets/ItemsData.json
