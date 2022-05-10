@@ -71,8 +71,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Examples
+# Assets examples
 /[Aa]ssets/Simple Scroll-Snap/Examples/
+/[Aa]ssets/Simple Scroll-Snap/Examples.meta
 
 # Generated lists
 /[Aa]ssets/ItemsData.json
