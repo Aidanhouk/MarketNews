@@ -1,2 +1,4 @@
 # MarketNews
- 
+
+## Technologies:
+Unity, C#.
